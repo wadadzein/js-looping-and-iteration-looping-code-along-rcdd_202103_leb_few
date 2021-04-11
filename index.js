@@ -15,6 +15,6 @@ function countDown() {
 while (countDown > 0) {
   console.log(countDown--);
 }
-countDown(4);
+countDown(10);
 }
     
