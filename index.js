@@ -10,7 +10,7 @@ function writeCards(names,events){
 }
 console.log(writeCards(['Lisa','Kaitlin','Jan'],'surprise'));
 
-let countDown = 10;
-while (countDown >0) {
-  console.log(countDown--);
+function countDown(number){
+  while (number>0, number --);{
+  }
 }
