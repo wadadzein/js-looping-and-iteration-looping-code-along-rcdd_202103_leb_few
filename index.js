@@ -15,6 +15,6 @@ while (countDown > 0) {
   console.log(startingNumber);
   startingNumber-=1;
 }
-countDown(10);
+console.log(startingNumber)
 }
     
